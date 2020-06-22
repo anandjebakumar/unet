@@ -3,7 +3,7 @@
 
 * was influenced by this implementation: https://youtu.be/u1loyDCoGbE
 
-## stride calculation in decoder
+## stride calculation in decoder (only the innermost layer of decoder is shown here as an example)
 
 ![](./pictures/decoder_stride_calculation.png)
 
