@@ -6,3 +6,7 @@
 ## stride calculation in decoder
 
 ![](./pictures/decoder_stride_calculation.png)
+
+## contact
+Anand Jebakumar
+anandjsamuel@gmail.com
